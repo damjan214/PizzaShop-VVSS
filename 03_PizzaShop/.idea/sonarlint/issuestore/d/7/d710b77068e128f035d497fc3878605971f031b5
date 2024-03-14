@@ -1,0 +1,9 @@
+
+E
+java:S1604&"(Make this anonymous inner class a lambda(®Şñç8šñÅêã1
+h
+java:S3655+"LCall "result.isPresent()" or "!result.isEmpty()" before accessing the value.(¼ı¦78¦ñÅêã1
+X	java:S125"<This block of commented-out lines of code should be removed.(‹İôà8°ñÅêã1
+F	java:S106-"+Replace this use of System.out by a logger.(„†K8·ñÅêã1
+]	java:S125,"<This block of commented-out lines of code should be removed.(Š‘Ÿûÿÿÿÿ8·ñÅêã1
+L	java:S106."+Replace this use of System.out by a logger.(£İÕ˜ùÿÿÿÿ8·ñÅêã1
