@@ -1,2 +1,2 @@
-# pizzashop
+# PizzaShop VVSS
 Proiect VVSS Laborator
