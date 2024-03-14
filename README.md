@@ -1,0 +1,2 @@
+# pizzashop
+Proiect VVSS Laborator
