@@ -1,11 +1,11 @@
 
 Q
-java:S3740"/Provide the parametrized type for this generic.(¬¾Ó¼ıÿÿÿÿ8´¸²ëã1
+java:S3740"/Provide the parametrized type for this generic.(¬¾Ó¼ıÿÿÿÿ8ßÉòŒä1
 i
-java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ãÈˆ¦8Â¸²ëã1
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ãÈˆ¦8ØÊòŒä1
 £
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›öÚûÿÿÿÿ8Â¸²ëã1
-X	java:S125"<This block of commented-out lines of code should be removed.(Ñö²8È¸²ëã1
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›öÚûÿÿÿÿ8çÊòŒä1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ñö²8üÊòŒä1
 a
-java:S2147 "DCombine this catch with the one at line 30, which has the same body.(ï­£Ä8Ï¸²ëã1
-J	java:S108-")Either remove or fill this block of code.(Íæè½ùÿÿÿÿ8Ô¸²ëã1
+java:S2147 "DCombine this catch with the one at line 30, which has the same body.(ï­£Ä8ËòŒä1
+J	java:S108-")Either remove or fill this block of code.(Íæè½ùÿÿÿÿ8¥ËòŒä1

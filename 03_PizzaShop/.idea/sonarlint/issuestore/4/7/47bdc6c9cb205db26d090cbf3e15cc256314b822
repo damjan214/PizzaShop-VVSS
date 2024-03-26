@@ -1,6 +1,6 @@
 
 c
-java:S1126 "AReplace this if-then-else statement by a single return statement.(½Óıìüÿÿÿÿ8Òò´ëã1
-W	java:S125/"<This block of commented-out lines of code should be removed.(ùü’8Ôò´ëã1
+java:S1126 "AReplace this if-then-else statement by a single return statement.(½Óıìüÿÿÿÿ8·ÓòŒä1
+W	java:S125/"<This block of commented-out lines of code should be removed.(ùü’8¾ÓòŒä1
 [
-java:S1155A">Use isEmpty() to check whether the collection is empty or not.(ë¡ÂÚ8Ôò´ëã1
+java:S1155A">Use isEmpty() to check whether the collection is empty or not.(ë¡ÂÚ8ÄÓòŒä1
