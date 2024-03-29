@@ -31,3 +31,5 @@ Q
 !src/main/java/pizzashop/Main.java,d\7\d710b77068e128f035d497fc3878605971f031b5
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+f
+6src/test/java/pizzashop/blackbox/PizzaServiceTest.java,d\b\dbaa9eacb25036c858a90397a16e8bb103c0c4d4
