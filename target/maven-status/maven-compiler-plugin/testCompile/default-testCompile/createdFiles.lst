@@ -1,0 +1,7 @@
+pizzashop\integration\step1\PaymentRepositoryTest.class
+pizzashop\integration\step2\PizzaServiceTest.class
+pizzashop\integration\step1\PaymentTest.class
+pizzashop\whitebox\PizzaServiceTest.class
+pizzashop\integration\step1\PizzaServiceTest.class
+pizzashop\integration\step3\PizzaServiceTest.class
+pizzashop\blackbox\PizzaServiceTest.class
