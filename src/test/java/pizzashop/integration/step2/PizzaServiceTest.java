@@ -13,7 +13,6 @@ import pizzashop.repository.MenuRepository;
 import pizzashop.repository.PaymentRepository;
 import pizzashop.service.PizzaService;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -46,7 +45,10 @@ class PizzaServiceTest {
 
     @Test
     void addPayment() {
-        Payment payment=new Payment(3,PaymentType.Cash,3);
+        Payment payment= mock(Payment.class);
+        when(payment.getTableNumber()).thenReturn(3);
+        when(payment.getType()).thenReturn(PaymentType.Cash);
+        when(payment.getAmount()).thenReturn(3.0);
 
         service.addPayment(payment.getTableNumber(),payment.getType(),payment.getAmount());
 

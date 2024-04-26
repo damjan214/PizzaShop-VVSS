@@ -48,8 +48,8 @@ class PizzaServiceTest {
     }
 
     @Test
-    @Order(1)
-    @DisplayName("Test for adding a valid payment (EC)")
+/*    @Order(1)
+    @DisplayName("Test for adding a valid payment (EC)")*/
     void addValidPaymentTest() {
         service.addPayment(2, PaymentType.Cash, 20.99);
 
@@ -65,7 +65,9 @@ class PizzaServiceTest {
     }
 
     @Test
+/*
     @Order(3)
+*/
     void addInvalidPaymentNullTypeTest() {
         service.addPayment(4, null, 23.99);
 
@@ -113,9 +115,9 @@ class PizzaServiceTest {
     }
 
     @Test
-    @Order(9)
+/*    @Order(9)
     @Tag("BVA")
-    @DisplayName("Test for adding a valid payment (BVA)")
+    @DisplayName("Test for adding a valid payment (BVA)")*/
     void addValidPaymentBVA1Test() {
         service.addPayment(5, PaymentType.Card, 29.99);
 
@@ -180,7 +182,9 @@ class PizzaServiceTest {
     }
 
     @Test
+/*
     @Order(17)
+*/
     void addInvalidPaymentBVA9Test() {
         service.addPayment(5, null, 29.99);
 

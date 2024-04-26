@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: pizzashop.blackbox.PizzaServiceTest
 -------------------------------------------------------------------------------
-Tests run: 23, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.070 s -- in pizzashop.blackbox.PizzaServiceTest
+Tests run: 23, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.090 s -- in pizzashop.blackbox.PizzaServiceTest
